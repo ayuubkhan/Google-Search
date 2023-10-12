@@ -1,0 +1,89 @@
+.google-Search{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 140px;
+    height: 70vh;
+}
+
+.search-box{
+    height: 44px;
+    width: 561px;
+    font-size: 18px;
+    border-radius: 44px;
+    border: 2px solid black;
+}
+
+.search-button{
+    height: 36px;
+    width: 127px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 2px solid transparent;
+}
+
+.search-button:hover {
+animation: border-blink 0.5s infinite alternate;
+border-color: black; 
+}
+
+
+.lucky-button{
+    display: inline-block;
+    height: 36px;
+    width: 127px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    margin-left: 15px;
+}
+
+.lucky-button:hover {
+animation: border-blink 0.5s infinite alternate;
+border-color: black; 
+}
+
+.submitandlucky{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Buttons{
+    display: flex;
+    justify-content: end;
+}
+
+.imagesearch{
+    line-height: 24px;
+    font-size: 14px;
+}
+
+.imagesearch:hover{
+    text-decoration: underline;
+}
+
+.advancesearch{
+    line-height: 24px;
+    font-size: 14px;
+    margin-right: 20px;
+}
+
+.advancesearch:hover{
+    text-decoration: underline;
+}
+
+
+input[type=text] {
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.Google-logo{
+    height: 100px;
+    width: auto;
+    position: relative;
+    margin-left: 120px;
+
+}
