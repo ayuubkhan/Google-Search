@@ -29,4 +29,5 @@ An "I'm Feeling Lucky" button is provided on the main Google Search page, which 
 Note on Redirect Notice:
 
 Users may encounter a redirect notice when using the "I'm Feeling Lucky" button. This is expected behavior due to a security feature implemented by Google.
+
 Feel free to explore and interact with this project, and let me know if you have any feedback or suggestions for improvements. This project was created to showcase my web development skills and replicate some of the core features of Google's search services in a personalized way.
